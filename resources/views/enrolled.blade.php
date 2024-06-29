@@ -24,6 +24,7 @@
             <!-- /.row -->
         </div><!-- /.container-fluid -->
     </div>
+    wew
     <!-- /.content -->
     <script src="{{ asset('js/student.js') }}"></script>
 @endsection
